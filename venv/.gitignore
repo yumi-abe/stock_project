@@ -16,7 +16,7 @@ venv.bak/
 *.sqlite3
 
 # Secret settings
-backend/backend/settings.py
+backend/settings.py
 
 # OSやエディタ関連
 .DS_Store
