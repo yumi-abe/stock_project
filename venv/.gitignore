@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.sqlite3
+
+# Secret settings
+backend/backend/settings.py
+
+# OSやエディタ関連
+.DS_Store
+.idea/
+.vscode/
